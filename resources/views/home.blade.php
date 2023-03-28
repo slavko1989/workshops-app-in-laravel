@@ -1,0 +1,6 @@
+@include('section.head')
+@include('section.nav')
+@include('section.header')
+@include('section.main')
+@include('section.sidebar')
+@include('section.footer')
